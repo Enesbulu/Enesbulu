@@ -50,5 +50,5 @@ Teknik tartışmalar, proje işbirlikleri veya sadece "Merhaba" demek için:
 
 ---
 <div style="display: none;">
-Enes Bulut Software Developer, .NET Developer Turkey, Backend Developer Enes Bulut, C# Uzmanı, Yazılım Mühendisi Enes Bulut.
+Enes Bulut Software Developer, .NET Developer Turkey, Backend Developer Enes Bulut, .Net Geliştirici,Full-Stack Yazılım Mühendisi Enes Bulut.
 </div>
